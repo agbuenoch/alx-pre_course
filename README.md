@@ -1,2 +1,2 @@
 My first readme
-I have edited readme-file within the main branch
+I have edited README.md-file within the main branch on Github.com
